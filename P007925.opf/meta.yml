@@ -5,19 +5,20 @@ source_metadata:
   title: གསུང་འབུམ། འཇམ་དབྱངས་རྒྱ་མཚོ།
   author: ''
   volumes:
-    9ef3a062ca274a8e8c726f48b09e25c3:
+    36dfa8c925cb49048e27f05c704477db:
       image_group_id: I1KG20615
-      title: ''
+      title: Volume 1 of gsung 'bum/_'jam dbyangs rgya mtsho/
       volume_number: 1
       total_pages: 0
-    53d3cd69bbf9464f87f49ad1c2054634:
+    44e350ec3d554bda9d695e7752dfb26a:
       image_group_id: I1KG20616
-      title: ''
+      title: Volume 2 of gsung 'bum/_'jam dbyangs rgya mtsho/
       volume_number: 2
       total_pages: 500
-    bcc71a8035d547c7b5cc614983ad2392:
+      base_file: v001.txt
+    b40df51098a34e3e95c1335b65b2dc30:
       image_group_id: I1KG20617
-      title: ''
+      title: Volume 3 of gsung 'bum/_'jam dbyangs rgya mtsho/
       volume_number: 3
       total_pages: 0
 ebook_metadata:
