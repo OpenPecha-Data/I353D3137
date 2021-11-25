@@ -1,5 +1,7 @@
 id: P007925
 initial_creation_type: ocr
+created_at: 22/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1PD159406
   title: གསུང་འབུམ། འཇམ་དབྱངས་རྒྱ་མཚོ།
@@ -21,10 +23,3 @@ source_metadata:
       title: Volume 3 of gsung 'bum/_'jam dbyangs rgya mtsho/
       volume_number: 3
       total_pages: 0
-ebook_metadata:
-  title: གསུང་འབུམ། འཇམ་དབྱངས་རྒྱ་མཚོ།
-  author: ''
-  sku: P007925
-  cover: cover.jpg
-  layers:
-  - pagination
